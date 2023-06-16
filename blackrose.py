@@ -10,9 +10,9 @@ os.system('pkg install figlet')
 os.system('clear')
 os.system('figlet BlackRose')
 print('''
-------------------------------------------------------------
-Termux Installation Tool          powered == By BlackRosepy
-------------------------------------------------------------
+---------------------------------------------------------
+Termux Installation Tool        powered == By BlackRosepy
+---------------------------------------------------------
 
 1) All Termux Commands
 2) Exit Tool
@@ -114,9 +114,9 @@ if choice == '1':
         os.system('clear')
         os.system('figlet BlackRose')
         print('''
------------------------------------------------------------
-Termux Installation Tool          Create == By BlackRosepy
------------------------------------------------------------
+--------------------------------------------------------
+Termux Installation Tool        Create == By BlackRosepy
+--------------------------------------------------------
 ''')
         print('')
         print(Fore.YELLOW + 'INSTALLATION COMPLETED :)'+ Style.RESET_ALL)
