@@ -13,4 +13,5 @@ installation packages for Termux. Coded with Python
     git clone https://github.com/blackrosepy/blackrose
     cd blackrose
     chmod 777 *
+    pip install colorama
     python3 blackrose.py
